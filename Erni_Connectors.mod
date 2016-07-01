@@ -1,0 +1,272 @@
+PCBNEW-LibModule-V1  7/3/2014 6:23:51 PM
+# encoding utf-8
+Units mm
+$INDEX
+ERNI_154764
+ERNI_204752
+$EndINDEX
+$MODULE ERNI_154764
+Po 0 0 0 15 52474AD3 00000000 ~~
+Li ERNI_154764
+Sc 0
+AR 
+Op 0 0 0
+T0 10.16 3.81 1.5 1.5 0 0.15 N V 21 N "ERNI_154764"
+T1 10.16 1.27 1.5 1.5 0 0.15 N V 21 N "VAL**"
+DS 21.1 -4.4 21.1 6.4 0.15 21
+DS -1.5 -4.4 21.1 -4.4 0.15 21
+DS -1.5 6.4 -1.5 -4.4 0.15 21
+DS -1.5 6.4 21.1 6.4 0.15 21
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 1.6 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "" C 1.6 1.6 0 0 0
+Dr 1.6 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 19.66 0
+$EndPAD
+$PAD
+Sh "A13" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.21 -2
+$EndPAD
+$PAD
+Sh "B13" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 2.21 -3.27
+$EndPAD
+$PAD
+Sh "A1" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17.45 -2
+$EndPAD
+$PAD
+Sh "A2" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 16.18 -2
+$EndPAD
+$PAD
+Sh "A3" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 14.91 -2
+$EndPAD
+$PAD
+Sh "A4" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.64 -2
+$EndPAD
+$PAD
+Sh "A5" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.37 -2
+$EndPAD
+$PAD
+Sh "A6" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.1 -2
+$EndPAD
+$PAD
+Sh "A7" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.83 -2
+$EndPAD
+$PAD
+Sh "A8" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.56 -2
+$EndPAD
+$PAD
+Sh "A9" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.29 -2
+$EndPAD
+$PAD
+Sh "A10" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.02 -2
+$EndPAD
+$PAD
+Sh "A11" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.75 -2
+$EndPAD
+$PAD
+Sh "A12" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.48 -2
+$EndPAD
+$PAD
+Sh "B1" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 17.45 -3.27
+$EndPAD
+$PAD
+Sh "B2" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 16.18 -3.27
+$EndPAD
+$PAD
+Sh "B3" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 14.91 -3.27
+$EndPAD
+$PAD
+Sh "B4" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 13.64 -3.27
+$EndPAD
+$PAD
+Sh "B5" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.37 -3.27
+$EndPAD
+$PAD
+Sh "B6" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 11.1 -3.27
+$EndPAD
+$PAD
+Sh "B7" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.83 -3.27
+$EndPAD
+$PAD
+Sh "B8" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.56 -3.27
+$EndPAD
+$PAD
+Sh "B9" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.29 -3.27
+$EndPAD
+$PAD
+Sh "B10" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 6.02 -3.27
+$EndPAD
+$PAD
+Sh "B11" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.75 -3.27
+$EndPAD
+$PAD
+Sh "B12" R 0.8 0.8 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 3.48 -3.27
+$EndPAD
+$PAD
+Sh "MECH" R 1.2 2.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.3 -2.45
+$EndPAD
+$PAD
+Sh "MECH" R 1.2 2.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.3 2.45
+$EndPAD
+$PAD
+Sh "MECH" R 1.2 2.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 19.96 -2.45
+$EndPAD
+$PAD
+Sh "MECH" R 1.2 2.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 19.96 2.45
+$EndPAD
+$EndMODULE ERNI_154764
+$MODULE ERNI_204752
+Po 0 0 0 15 53B6016A 00000000 ~~
+Li ERNI_204752
+Sc 0
+AR 
+Op 0 0 0
+T0 0 -48.5 1 1 0 0.15 N V 21 N "ERNI_204752"
+T1 0 48.5 1 1 0 0.15 N V 21 N "VAL**"
+DS -5.3 -47.5 5.3 -47.5 0.15 21
+DS 5.3 -47.5 5.3 47.5 0.15 21
+DS 5.3 47.5 -5.3 47.5 0.15 21
+DS -5.3 47.5 -5.3 -47.5 0.15 21
+$PAD
+Sh "" C 2.8 2.8 0 0 0
+Dr 2.8 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 0 -45
+$EndPAD
+$PAD
+Sh "" C 2.8 2.8 0 0 0
+Dr 2.8 0 0
+At HOLE N 00E0FFFF
+Ne 0 ""
+Po 0 45
+$EndPAD
+$EndMODULE ERNI_204752
+$EndLIBRARY
